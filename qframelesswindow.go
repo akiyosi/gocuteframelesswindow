@@ -5,10 +5,10 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/akiyosi/cutego/core"
-	"github.com/akiyosi/cutego/gui"
-	"github.com/akiyosi/cutego/svg"
-	"github.com/akiyosi/cutego/widgets"
+	"github.com/akiyosi/qt/core"
+	"github.com/akiyosi/qt/gui"
+	"github.com/akiyosi/qt/svg"
+	"github.com/akiyosi/qt/widgets"
 )
 
 type Edge int

@@ -63,7 +63,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/akiyosi/cutego/core"
+	"github.com/akiyosi/qt/core"
 )
 
 func (f *QFramelessWindow) SetStyleMask() {

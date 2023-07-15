@@ -1,8 +1,8 @@
 package qframelesswindow
 
 import (
-	"github.com/akiyosi/cutego/core"
-	"github.com/akiyosi/cutego/gui"
+	"github.com/akiyosi/qt/core"
+	"github.com/akiyosi/qt/gui"
 )
 
 func (f *QFramelessWindow) SetupTitleBarActions() {

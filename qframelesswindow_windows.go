@@ -3,7 +3,7 @@ package qframelesswindow
 import (
 	"unsafe"
 
-	"github.com/akiyosi/cutego/core"
+	"github.com/akiyosi/qt/core"
 	win "github.com/akiyosi/w32"
 )
 
